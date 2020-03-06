@@ -1,0 +1,11 @@
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.exe
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.deps.json
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.runtimeconfig.json
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.runtimeconfig.dev.json
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.dll
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\bin\Debug\netcoreapp3.1\Sample02.pdb
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\obj\Debug\netcoreapp3.1\Sample02.csprojAssemblyReference.cache
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\obj\Debug\netcoreapp3.1\Sample02.AssemblyInfoInputs.cache
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\obj\Debug\netcoreapp3.1\Sample02.AssemblyInfo.cs
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\obj\Debug\netcoreapp3.1\Sample02.dll
+C:\Users\Zehia Bable  Privat\Documents\C#ForDev\Sample02\obj\Debug\netcoreapp3.1\Sample02.pdb
